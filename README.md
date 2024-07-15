@@ -1,4 +1,4 @@
 
 
-[TEICMHUL.pdf](transcript/TEICMHUL.pdf)
+[TEICMHUL.pdf](/TEICMHUL.pdf)
 
